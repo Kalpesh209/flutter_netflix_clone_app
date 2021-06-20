@@ -1,4 +1,4 @@
-# flutter_netflix_clone_app
+# On Demand Flutter Netflix Clone App
 
  flutter_netflix_clone_app project has "main.dart" as Entry Point.
 
