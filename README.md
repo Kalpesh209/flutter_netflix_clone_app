@@ -10,7 +10,8 @@ A new Flutter project.
 - [Drop me your message](https://twitter.com/khandla20)
 
 
-https://user-images.githubusercontent.com/48312656/116775473-9e2e5500-aa0f-11eb-8ee5-dd80af8f95e1.mp4
+![flutter netflix clone app](https://user-images.githubusercontent.com/48312656/122667387-2c48d100-d15f-11eb-8356-e1a1b070d826.jpg)
+
 
 
 = = = To Generate Android release steps = = =
