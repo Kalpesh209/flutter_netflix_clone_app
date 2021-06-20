@@ -1,8 +1,5 @@
 # flutter_netflix_clone_app
 
-A new Flutter project.
-
-
  flutter_netflix_clone_app project has "main.dart" as Entry Point.
 
 - [Hire Me](https://www.fiverr.com/kalpeshkhandla?up_rollout=true)
